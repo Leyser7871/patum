@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>จังหวัดปทุมธานี</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1 class="main-title">ยินดีต้อนรับสู่จังหวัดปทุมธานี</h1>
+        <nav>
+            <ul>
+                <li><a href="places.html">ที่เที่ยว</a></li>
+                <li><a href="culture.html">ประเพณี</a></li>
+                <li><a href="food.html">อาหาร</a></li>
+                <li><a href="accommodation.html">ที่พัก</a></li>
+                <li><a href="about.html">เกี่ยวกับผู้จัดทำ</a></li>
+                <li><a href="https://sci.rmutsb.ac.th/" target="_blank">คณะวิทย์</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>ข้อมูลจังหวัดปทุมธานี</h2>
+            <p>จังหวัดปทุมธานี ตั้งอยู่ในภาคกลางของประเทศไทย มีชื่อเสียงในด้านวัฒนธรรม ประเพณี และแหล่งท่องเที่ยวที่หลากหลาย</p>
+            <p>ปทุมธานีมีเมืองหลวงคือ "เมืองปทุมธานี" ตั้งอยู่ทางทิศเหนือของกรุงเทพมหานคร การเดินทางสะดวกสบายจากการเชื่อมต่อกับถนนและระบบขนส่งมวลชน</p>
+            <p>จังหวัดนี้ถือเป็นประตูสู่ภาคกลางที่มีพื้นที่เขียวขจีและแหล่งน้ำธรรมชาติ รวมถึงสถานที่สำคัญ เช่น วัดไผ่ล้อม พิพิธภัณฑ์วิทยาศาสตร์แห่งชาติ ตลาดน้ำคลองสระบัว และอื่น ๆ อีกมากมาย</p>
+
+            <h3>ภูมิศาสตร์และที่ตั้ง</h3>
+            <p>จังหวัดปทุมธานีตั้งอยู่ในเขตภาคกลางของประเทศไทย โดยมีขอบเขตติดกับกรุงเทพมหานครทางทิศใต้ พื้นที่ส่วนใหญ่เป็นที่ราบลุ่มและมีแหล่งน้ำธรรมชาติหลายแห่ง</p>
+            <p>มีแม่น้ำเจ้าพระยาไหลผ่านในส่วนของอำเภอเมืองและอำเภอใกล้เคียง ทำให้พื้นที่นี้เหมาะสมกับการเกษตรกรรมและการท่องเที่ยวเชิงนิเวศ</p>
+
+            <h3>การคมนาคมและการเดินทาง</h3>
+            <p>การเดินทางมายังจังหวัดปทุมธานีสามารถทำได้สะดวกจากกรุงเทพมหานคร โดยมีทั้งถนนสายหลักและรถไฟฟ้า ซึ่งเชื่อมโยงกับแหล่งท่องเที่ยวสำคัญต่าง ๆ</p>
+            <p>อีกทั้งยังมีท่าอากาศยานดอนเมืองที่อยู่ใกล้เคียง ซึ่งสะดวกต่อการเดินทางทางอากาศ</p>
+
+            <h3>ประวัติศาสตร์ของจังหวัดปทุมธานี</h3>
+            <p>จังหวัดปทุมธานีมีประวัติศาสตร์ยาวนาน โดยมีหลักฐานทางประวัติศาสตร์และโบราณคดีที่สำคัญ รวมทั้งวัดและสิ่งก่อสร้างที่สวยงามที่บ่งบอกถึงอารยธรรมไทยที่มีมาอย่างยาวนาน</p>
+            <p>เป็นที่รู้จักกันดีในฐานะศูนย์กลางทางการค้าและการเกษตร ซึ่งส่งผลให้เป็นจังหวัดที่มีความสำคัญในทางเศรษฐกิจของประเทศไทย</p>
+
+            <h3>วัฒนธรรมและประเพณี</h3>
+            <p>จังหวัดปทุมธานีมีการรักษาประเพณีที่สำคัญ เช่น ประเพณีสงกรานต์, ประเพณีทอดผ้าป่า, และประเพณีทำบุญเดือนสิบ ซึ่งได้รับความนิยมจากทั้งชาวไทยและนักท่องเที่ยวต่างชาติ</p>
+            <p>ในแต่ละปีจะมีการจัดงานเทศกาลต่าง ๆ ที่สืบทอดกันมาหลายร้อยปี และเป็นการแสดงให้เห็นถึงวัฒนธรรมที่ยังคงอยู่ในชุมชน</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 เว็บไซต์จังหวัดปทุมธานี โดย [นายชยางกูร วารีนิล MMT36641N 366427241006]</p>
+    </footer>
+</body>
+</html>
+
+/* ตกแต่งพื้นหลังและฟอนต์ของเว็บไซต์ */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #f8f9fa, #e9ecef); /* ไล่เฉดสีพื้นหลัง */
+    color: #333;
+}
+
+/* ตกแต่งส่วนหัว */
+header {
+    background-color: #6200ea; /* พื้นหลังสีม่วง */
+    color: white;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* ตกแต่งหัวข้อหลัก */
+.main-title {
+    font-size: 2.8em;
+    margin: 0;
+    color: #ffcc00; /* สีข้อความ */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* เงา */
+}
+
+/* เมนูนำทาง */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 10px 0;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    background-color: #3700b3; /* สีปุ่มเมนู */
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+nav a:hover {
+    background-color: #ffcc00; /* สีเมื่อวางเมาส์ */
+    color: #3700b3;
+    transform: scale(1.1); /* ขยายขนาดเล็กน้อยเมื่อวางเมาส์ */
+}
+
+/* ตกแต่งเนื้อหา */
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+.content-section {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    margin: 20px auto;
+    max-width: 900px;
+}
+
+/* หัวข้อย่อย */
+.section-title {
+    color: #6200ea; /* สีม่วง */
+    font-size: 2em;
+    text-decoration: underline;
+}
+
+.subheading {
+    color: #3700b3; /* สีม่วงเข้ม */
+    font-size: 1.5em;
+    margin-top: 20px;
+}
+
+/* ปรับข้อความ */
+section p {
+    font-size: 1.1em;
+    line-height: 1.6;
+    color: #555555; /* สีเทาอ่อน */
+}
+
+/* ตกแต่งส่วนท้าย */
+footer {
+    background-color: #3700b3;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.9em;
+    margin-top: 20px;
+}
